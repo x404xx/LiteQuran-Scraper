@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://litequran.net/assets/favicon.ico" width="auto" height="auto"> **LiteQuran** is a surah scraper and saves the data in a JSON file.. (https://litequran.net)
+<img src="https://litequran.net/assets/favicon.ico" width="auto" height="auto"> **LiteQuran** is a surah scraper and saves the data in a JSON file. (https://litequran.net)
 
 <img src="https://github.com/x404xx/LiteQuran-Scraper/assets/114883816/5823bf77-9691-4522-ad8a-45bfa4f8a725" width="600" height="auto">
 
